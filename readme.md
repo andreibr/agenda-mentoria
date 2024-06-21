@@ -44,4 +44,4 @@
 	- mysql as a pod (and it needs a volume)
 	- java application as a pod
   
-### good wekend!
+### good weekend!
